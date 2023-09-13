@@ -1,0 +1,24 @@
+                                 #female  #15      #0              #0                 #330923            #8.0292  #Q              #
+24      #1       #1       #Sloper, Mr. William Thompson                                                              #male    #28      #0              #0                 #113788            #35.5    #A6             #S#
+25      #0       #3       #Palsson, Miss. Torborg Danira                                                             #female  #8       #3              #1                 #349909            #21.075  #S              #
+26      #1       #3       #Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)                                 #female  #38      #1              #5                 #347077            #31.3875 #S              #
+27      #0       #3       #Emir, Mr. Farred Chehab                                                                   #male    #0       #0              #2631              #7.225             #C       #
+28      #0       #1       #Fortune, Mr. Charles Alexander                                                            #male    #19      #3              #2                 #19950             #263     #C23 C25 C27    #S#
+.6875 #S              #
+52      #0       #3       #Nosworthy, Mr. Richard Cater                                                              #male    #21      #0              #0                 #A/4. 39886        #7.8     #S              #
+53      #1       #1       #Harper, Mrs. Henry Sleeper (Myna Haxtun)                                                  #female  #49      #1              #0                 #PC 17572          #76.7292 #D33            #C#
+54      #1       #2       #Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)                                        #female  #29      #1              #0                 #2926              #26      #S              #
+55      #0       #1       #Ostby, Mr. Engelhart Cornelius                                                            #male    #65      #0              #1                 #113509            #61.9792 #B30            #C#
+56      #1       #1       #Woolner, Mr. Hugh                                                                         #male    #0       #0              #19947             #35.5              #C52     #S              #
+57      #1       #2       #Rugg, Miss. Emily                                                29      #1       #3       #O'Dwyer, Miss. Ellen Nellie                                                               #female  #0       #0              #330959            #7.8792            #Q       #
+30      #0       #3       #Todoroff, Mr. Lalio                                                                       #male    #0       #0              #349216            #7.8958            #S       #
+31      #0       #1       #Uruchurtu, Don. Manuel E                                                                  #male    #40      #0              #0                 #PC 17601          #27.7208 #C              #
+32      #1       #1       #Spencer, Mrs. William Augustus (Marie Eugenie)                                            #female  #1       #0              #PC 17569          #146.5208          #B78     #C              #
+33      #1       #3       #Glynn, Miss. Mary Agatha                                                                  #female  #0       #0              #335677            #7.75              #Q       #
+34      #0       #2       #Wheadon, Mr. Edward H                                                                     #male    #66      #0              #0                 #C.A. 24579        #10.5    #S              #
+35      #0       #1       #Meyer, Mr. Edgar Joseph                                                                   #male    #28      #1              #0                 #PC 17604          #82.1708 #C              #
+36      #0       #1       #Holverson, Mr. Alexander Oskar                                                            #male    #42      #1              #0                 #113789            #52      #S              #
+37      #1       #3       #Mamee, Mr. Hanna                                                                          #male    #0       #0              #2677              #7.2292            #C       #
+38      #0       #3       #Cann, Mr. Ernest Charles                                                                  #male    #21      #0              #0                 #A./5. 2152        #8.05    #S              #
+39      #0       #3       #Vander Planke, Miss. Augusta Maria                                                        #female  #18      #2              #0                 #345764            #18      #S              #
+40      #1       #3       #Nicola-Yarred, Miss. Jamila                                  
